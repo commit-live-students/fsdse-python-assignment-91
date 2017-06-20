@@ -1,7 +1,8 @@
 import pandas as pd
 
 
-def solution(dict):
+def solution(d):
     """
     Enter your code here
     """
+    return pd.DataFrame(d)
